@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#e0e0e0</color>
+  <color name="colorPrimaryDark">#EAE7E0</color>
+  <color name="colorAccent">#0F33F6</color>
+  <color name="textColor">#0C0739</color>
+  <color name="competitionTextColor">#474747</color>
+  <color name="highLightColor">#CF3C2F</color>
+  <color name="tabColor">#EAE7E0</color>
+</resources>
